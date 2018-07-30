@@ -1,6 +1,6 @@
 ## DataCampProjects
 
-This repo contains all the projects I have participated in at Datacamp
+This repo contains all the projects I have participated at Datacamp
 
 - Exploring 67 years of LEGO
 - Mobile Games A/B Testing with Cookie Cats
