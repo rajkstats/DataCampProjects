@@ -7,3 +7,4 @@ This repo contains all the projects I have participated at Datacamp
 - What's in a Name?
 - Word frequency in Moby Dick
 - Naïve Bees: Image Loading and Processing
+- A Network analysis of Game of Thrones
