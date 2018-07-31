@@ -8,3 +8,4 @@ This repo contains all the projects I have participated at Datacamp
 - Word frequency in Moby Dick
 - Naïve Bees: Image Loading and Processing
 - A Network analysis of Game of Thrones
+- Bad passwords and the NIST guidelines
