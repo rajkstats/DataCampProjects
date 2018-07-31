@@ -6,3 +6,4 @@ This repo contains all the projects I have participated at Datacamp
 - Mobile Games A/B Testing with Cookie Cats
 - What's in a Name?
 - Word frequency in Moby Dick
+- Naïve Bees: Image Loading and Processing
