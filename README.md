@@ -9,3 +9,4 @@ This repo contains all the projects I have participated at Datacamp
 - Naïve Bees: Image Loading and Processing
 - A Network analysis of Game of Thrones
 - Bad passwords and the NIST guidelines
+- Exploring the Bitcoin cryptocurrency market
