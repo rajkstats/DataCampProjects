@@ -11,3 +11,4 @@ This repo contains all the projects I have participated at Datacamp
 - Bad passwords and the NIST guidelines
 - Exploring the Bitcoin cryptocurrency market
 - Name Game: Gender Prediction using Sound
+- The GitHub History of the Scala Language
