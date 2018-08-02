@@ -10,3 +10,4 @@ This repo contains all the projects I have participated at Datacamp
 - A Network analysis of Game of Thrones
 - Bad passwords and the NIST guidelines
 - Exploring the Bitcoin cryptocurrency market
+- Name Game: Gender Prediction using Sound
