@@ -12,3 +12,5 @@ This repo contains all the projects I have participated at Datacamp
 - Exploring the Bitcoin cryptocurrency market
 - Name Game: Gender Prediction using Sound
 - The GitHub History of the Scala Language
+- The Hottest Topics in Machine Learning
+- Dr. Semmelweis and the discovery of handwashing
