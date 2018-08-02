@@ -14,3 +14,4 @@ This repo contains all the projects I have participated at Datacamp
 - The GitHub History of the Scala Language
 - The Hottest Topics in Machine Learning
 - Dr. Semmelweis and the discovery of handwashing
+- Recreating John Snow's Ghost Map
