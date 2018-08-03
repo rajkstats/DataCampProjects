@@ -17,3 +17,4 @@ This repo contains all the projects I have participated at Datacamp
 - Recreating John Snow's Ghost Map
 - Exploring the evolution of Linux
 - A New Era of Data Analysis in Baseball
+- Risk and Returns: The Sharpe Ratio
