@@ -16,3 +16,4 @@ This repo contains all the projects I have participated at Datacamp
 - Dr. Semmelweis and the discovery of handwashing
 - Recreating John Snow's Ghost Map
 - Exploring the evolution of Linux
+- A New Era of Data Analysis in Baseball
